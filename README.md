@@ -10,5 +10,7 @@ My setup:
 I used 2 arduino pro's (not pro mini) that can be found on aliexpress, 2 xbee pro 900mhz for long range communication between my car in the street and my PC at home, and one PIR motion sensor from sparkfun. Below you'll find my setup, but any setup with just a TX-only for your can, RX-only for your PC, any motion sensor and any arduino will work.
 
 Arduino pro - https://pt.aliexpress.com/item/Mini-Leonardo-Pro-Micro-ATmega32U4-5V-16MHz-Module-For-Arduino-Best-Quality/32284746884.html
+
 PIR motion sensor - https://www.sparkfun.com/products/13285
+
 xbee pro 900mhz - https://www.sparkfun.com/products/9097

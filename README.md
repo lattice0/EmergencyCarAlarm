@@ -1,3 +1,5 @@
+# Emergency Car Alarm
+
 This is an emergency car alarm, it's not a professional one, it's just an alarm to use while I'm building a better one. It uses 2 arduinos, one RC transmitter and one RC receiver of any kind, and a PIR motion sensor.
 
 # How it works?
